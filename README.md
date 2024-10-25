@@ -1,0 +1,3 @@
+# ZeroPoint Engine
+
+ZeroPoint Engine is a modular, extensible framework for building custom operating systems from the ground up. Drawing inspiration from the flexibility and power of game engines, ZeroPoint allows developers to construct highly specialized OS environments using a set of reusable, configurable core components. Whether you're developing lightweight OSes for IoT devices, performance-driven systems for enterprise servers, or personalized OSes for personal computers, ZeroPoint serves as your foundational toolkit—letting you focus on innovation while it handles the essentials.
